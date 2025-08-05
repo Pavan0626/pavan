@@ -1,4 +1,4 @@
 function exploreCourses() {
-  alert("Redirecting to course page...");
-  // You can use: window.location.href = "courses.html";
+  window.open("https://www.coursera.org/browse/computer-science", "_blank");
 }
+
